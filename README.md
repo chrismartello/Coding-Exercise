@@ -22,7 +22,14 @@ Download and install Maven and Eclipse.  Clone this Git Repository to your local
 
 ###Once You are Finished
 
-When complete, please export as a java project and send it back in a zip / archive file format.
+When complete, please export as a java project and send it back in a zip / archive file format.  Most email services now prevent ZIP files from being attached or sent as attachments due to viruses / malware.  Please use one of the following services to upload your exercise and provide the link in an email:
 
+[https://www.dropbox.com/](https://www.dropbox.com/)
 
-rev. 11/2017
+[http://www.senduit.com/](http://www.senduit.com/)
+	 
+
+ 
+ 
+
+rev. 12/2017
